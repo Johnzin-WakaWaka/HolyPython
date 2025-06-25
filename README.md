@@ -145,9 +145,9 @@ O Autor
 
 olá, sou um moleque de 11 anos que gosta de fazer experimentos com IA
 decidi fazer esse linguagem de programação porque meu sonho é fazer um Sistema Operacional
-então decidi fazer isso em menos de 24 horas e deu nisso
+então decidi fazer isso em menos de 24 horas e deu nisso,
 espero criar uma comunidade que goste dessa linguagem.
-Me inspirei em Python e C
+Me inspirei em Python e C,
 qualquer projeto que use a minha linguagem, estou disposto a ajudar: johndearaujobastos@gmail.com
 
 ass. JohnzinOmochain
