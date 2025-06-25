@@ -1,0 +1,41 @@
+// Exemplo de HolyPython com sintaxe mista (Python + C)
+include "lib.hpy"
+
+int x = 10;
+float y = 3.5;
+str nome = "WakaWaka";
+
+// comentário tipo C
+# comentário tipo Python
+
+print("[red]Hello, World![/red]");
+poke(0, x);
+print(peek(0));
+
+def dobro(a) {
+    return a * 2;
+}
+
+print(dobro(x));
+
+class Pessoa {
+    def __init__(self, nome) {
+        self.nome = nome;
+    }
+    def falar(self) {
+        print("Oi, eu sou " + self.nome);
+    }
+}
+
+p = Pessoa(nome);
+p.falar();
+
+if (x > 5) {
+    print("x > 5");
+} elif (x > 2) {
+    print("x > 2");
+} else {
+    print("x <= 2");
+}
+
+saudacao();
