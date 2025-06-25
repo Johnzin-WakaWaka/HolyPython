@@ -143,6 +143,7 @@ O Autor
 
 @Johnzin-WakaWaka
 
+(esta linguagem de programação foi feita pelo Copilot do Github)
 olá, sou um moleque de 11 anos que gosta de fazer experimentos com IA
 decidi fazer esse linguagem de programação porque meu sonho é fazer um Sistema Operacional
 então decidi fazer isso em menos de 24 horas e deu nisso,
